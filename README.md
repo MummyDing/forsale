@@ -45,6 +45,10 @@
 
 
 
+![alt](./img/thumb.png)
+
+
+
 [bed]: https://github.com/MummyDing/forsale/blob/master/img/bed.jpg?raw=true
 [box_group]: https://github.com/MummyDing/forsale/blob/master/img/box_group.png?raw=true
 [chair]: https://github.com/MummyDing/forsale/blob/master/img/chair.jpg?raw=true
