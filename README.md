@@ -39,7 +39,7 @@
 
 
 
-|      装饰假花      |         水壶          |           笔筒            |       台灯       | muji书架         |
+|      装饰假花      |         凉水杯          |           笔筒            |       台灯       | muji书架         |
 | :---------------: | :-----------------: | :---------------------: | :------------: | -------------- |
 |      甩卖价 $4      |       甩卖价 $1        |         甩卖价 $1          |     甩卖价 $4     | 甩卖价 $3         |
 | [点击查看大图][flower] | [点击查看大图][water_can] | [点击查看大图][pen_cantainer] | [点击查看大图][lamp] | [点击查看大图][muji] |
@@ -57,7 +57,7 @@
 [cloth_box]: https://github.com/MummyDing/forsale/blob/master/img/cloth_box.png?raw=true
 [clothesline]: https://github.com/MummyDing/forsale/blob/master/img/clothesline.png?raw=true
 [desk]: https://github.com/MummyDing/forsale/blob/master/img/desk.jpg?raw=true
-[c]: https://github.com/MummyDing/forsale/blob/master/img/flower.jpg?raw=true
+[flower]: https://github.com/MummyDing/forsale/blob/master/img/flower.jpg?raw=true
 [lagest_box]: https://github.com/MummyDing/forsale/blob/master/img/lagest_box.png?raw=true
 [lamp]: https://github.com/MummyDing/forsale/blob/master/img/lamp.png?raw=true
 [large_box]: https://github.com/MummyDing/forsale/blob/master/img/large_box.png?raw=true
