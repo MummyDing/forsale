@@ -2,47 +2,47 @@
 
 **居家必备**
 
-|     餐桌,可展开成大桌子      | 客厅完美隔断衣柜Pax系列四组(原价1000刀左右) |        隔断伸缩杆加窗帘        |
-| :-----------------: | :----------------: | :--------------------: |
-|       甩卖价 $20       |    **甩卖价 $80**     |        甩卖价 $10         |
-| [点击查看大图][meal_desk] |   [点击查看大图][pax]    | [点击查看大图][window_cloth] |
+|     餐桌,可展开成大桌子      |       沙发椅       |        隔断伸缩杆加窗帘        |
+| :-----------------: | :-------------: | :--------------------: |
+|       甩卖价 $20       |     甩卖价 $24     |        甩卖价 $10         |
+| [点击查看大图][meal_desk] | [点击查看大图][chair] | [点击查看大图][window_cloth] |
 
 
 
-| 宜家办公桌(原价$99.99) | 宜家床头柜(原价:$49.99) |      宜家双头落地灯      |     床垫加床架     |       沙发椅       |
-| :-------------: | :--------------: | :---------------: | :-----------: | :-------------: |
-|     甩卖价 $45     |     甩卖价 $20      |      甩卖价 $5       |    甩卖价 $50    |     甩卖价 $24     |
-| [点击查看大图][desk]  | [点击查看大图][chest]  | [点击查看大图][uplight] | [点击查看大图][bed] | [点击查看大图][chair] |
+|        餐桌椅 4把        | 宜家床头柜(原价:$49.99) |        可伸缩晾衣杆         |  工具盒1(老虎钳,扳手等)   |     工具盒2(电钻)     |
+| :------------------: | :--------------: | :-------------------: | :--------------: | :--------------: |
+|       甩卖价 $4/把       |     甩卖价 $20      |        甩卖价 $15        |      甩卖价$4       |      甩卖价$15      |
+| [点击查看大图][meal_chair] | [点击查看大图][chest]  | [点击查看大图][clothesline] | [点击查看大图][tool_1] | [点击查看大图][tool_2] |
 
 
 **收纳专卖**
 
-|         三层小收纳箱          |         收纳箱1         |         收纳箱2         |        收纳箱3         |
-| :---------------------: | :------------------: | :------------------: | :-----------------: |
-|         甩卖价 $4          |        甩卖价 $3        |        甩卖价 $2        |       甩卖价 $3        |
-| [点击查看大图][little_drawer] | [点击查看大图][little_box] | [点击查看大图][middle_box] | [点击查看大图][large_box] |
+|         三层小收纳箱          |       收纳箱2(蓝色)       |      收纳箱3(黄色)       |
+| :---------------------: | :------------------: | :-----------------: |
+|         甩卖价 $4          |        甩卖价 $2        |       甩卖价 $3        |
+| [点击查看大图][little_drawer] | [点击查看大图][middle_box] | [点击查看大图][large_box] |
 
 
 
-| 宜家超大号收纳箱2个           | 收纳箱4                | 收纳格一组               |
-| -------------------- | ------------------- | ------------------- |
-| 甩卖价 $4               | 甩卖价 $2              | 甩卖价 $5              |
-| [点击查看大图][lagest_box] | [点击查看大图][cloth_box] | [点击查看大图][box_group] |
+| 收纳箱4(黑色)            | 收纳格一组               |
+| ------------------- | ------------------- |
+| 甩卖价 $2              | 甩卖价 $5              |
+| [点击查看大图][cloth_box] | [点击查看大图][box_group] |
 
 **小巧实用**
 
-|          抱枕          |          靠枕          |       花瓶       |       可伸缩晾衣杆       |
-| :------------------: | :------------------: | :------------: | :------------------: |
-|        甩卖价 $2        |        甩卖价 $3        |     甩卖价 $2     |     甩卖价 $15    |
-| [点击查看大图][pillow_one] | [点击查看大图][pillow_two] | [点击查看大图][vase] | [点击查看大图][clothesline]|
+|          抱枕          |          靠枕          |       花瓶       |
+| :------------------: | :------------------: | :------------: |
+|        甩卖价 $2        |        甩卖价 $3        |     甩卖价 $2     |
+| [点击查看大图][pillow_one] | [点击查看大图][pillow_two] | [点击查看大图][vase] |
 
 
 
 
-|      装饰假花      |         凉水杯          |           笔筒            |       台灯       | muji书架         |
-| :---------------: | :-----------------: | :---------------------: | :------------: | -------------- |
-|      甩卖价 $4      |       甩卖价 $1        |         甩卖价 $1          |     甩卖价 $4     | 甩卖价 $3         |
-| [点击查看大图][flower] | [点击查看大图][water_can] | [点击查看大图][pen_cantainer] | [点击查看大图][lamp] | [点击查看大图][muji] |
+|       装饰假花       |           笔筒            |       台灯       |     muji书架     |
+| :--------------: | :---------------------: | :------------: | :------------: |
+|      甩卖价 $4      |         甩卖价 $1          |     甩卖价 $4     |     甩卖价 $3     |
+| [点击查看大图][flower] | [点击查看大图][pen_cantainer] | [点击查看大图][lamp] | [点击查看大图][muji] |
 
 
 
@@ -64,12 +64,15 @@
 [little_box]: https://github.com/MummyDing/forsale/blob/master/img/little_box.png?raw=true
 [little_drawer]: https://github.com/MummyDing/forsale/blob/master/img/little_drawer.jpg?raw=true
 [meal_desk]: https://github.com/MummyDing/forsale/blob/master/img/meal_desk.jpg?raw=true
+[meal_chair]:https://github.com/MummyDing/forsale/blob/master/img/meal_chair.jpeg?raw=true
 [middle_box]: https://github.com/MummyDing/forsale/blob/master/img/middle_box.png?raw=true
 [muji]: https://github.com/MummyDing/forsale/blob/master/img/muji.png?raw=true
 [pax]: https://github.com/MummyDing/forsale/blob/master/img/pax.jpg?raw=true
 [pen_cantainer]: https://github.com/MummyDing/forsale/blob/master/img/pen_cantainer.png?raw=true
 [pillow_one]: https://github.com/MummyDing/forsale/blob/master/img/pillow_one.png?raw=true
 [pillow_two]: https://github.com/MummyDing/forsale/blob/master/img/pillow_two.png?raw=true
+[tool_1]: https://github.com/MummyDing/forsale/blob/master/img/tool_1.png?raw=true
+[tool_2]: https://github.com/MummyDing/forsale/blob/master/img/tool_2.png?raw=true
 [uplight]: https://github.com/MummyDing/forsale/blob/master/img/uplight.jpg?raw=true
 [vase]: https://github.com/MummyDing/forsale/blob/master/img/vase.png?raw=true
 [water_can]: https://github.com/MummyDing/forsale/blob/master/img/water_can.png?raw=true
