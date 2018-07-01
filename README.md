@@ -2,10 +2,10 @@
 
 **居家必备**
 
-|        可伸缩晾衣杆         |       沙发椅       |        餐桌椅 4把        |
-| :-------------------: | :-------------: | :------------------: |
-|        甩卖价 $15        |     甩卖价 $24     |       甩卖价 $4/把       |
-| [点击查看大图][clothesline] | [点击查看大图][chair] | [点击查看大图][meal_chair] |
+|        可伸缩晾衣杆         |       沙发椅       |        餐桌椅 4把        |        地毯        |
+| :-------------------: | :-------------: | :------------------: | :------------------: |
+|        甩卖价 $15        |     甩卖价 $24     |       甩卖价 $4/把       |       甩卖价 $13       |
+| [点击查看大图][clothesline] | [点击查看大图][chair] | [点击查看大图][meal_chair] |[点击查看大图][carpet]|
 
 
 
@@ -46,6 +46,7 @@
 
 [bed]: https://github.com/MummyDing/forsale/blob/master/img/bed.jpg?raw=true
 [box_group]: https://github.com/MummyDing/forsale/blob/master/img/box_group.png?raw=true
+[carpet]: https://github.com/MummyDing/forsale/blob/master/img/carpet.png?raw=true
 [chair]: https://github.com/MummyDing/forsale/blob/master/img/chair.jpg?raw=true
 [chest]: https://github.com/MummyDing/forsale/blob/master/img/chest.jpg?raw=true
 [cloth_box]: https://github.com/MummyDing/forsale/blob/master/img/cloth_box.png?raw=true
